@@ -1,5 +1,7 @@
 # Twitter Clone with Machine Learning Moderation
 
+This is a copy of of the repository originally found at : https://github.com/andbluedev/Twitter-Clone-ML-Moderator on which I worked alongside @andbluedev
+
 ![Touitter](react-webapp/src/img/touitter-logo.jpeg)
 
 This educational project aims to show how social medias can be can moderated using AI systems.
